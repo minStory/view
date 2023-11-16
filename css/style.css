@@ -1,0 +1,13 @@
+@import url('./reset.css');
+
+section{
+    height:300px;
+    color:dodgerblue;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h2{
+    font-size:40px;
+}
